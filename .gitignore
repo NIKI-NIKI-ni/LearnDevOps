@@ -1,0 +1,6 @@
+# filename: .gitignore
+temp/
+*.tmp
+*.log
+.env
+secrets/
